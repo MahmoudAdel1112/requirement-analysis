@@ -37,3 +37,16 @@ Another advantage of requirement analysis is that it helps clarify communication
 ## Tools and Techniques Used in Requirement Analysis
 
 To successfully perform requirement analysis, professionals typically utilize a host of available tools and techniques. If an analyst is interested in diagramming system interactions, tools like Draw.io or Lucid chart will help produce use case diagrams and flowcharts. If an analyst needs to collaboratively write and maintain requirement specifications, documentation tools like Confluence are very useful. If an analyst wishes to capture and keep track of requirements through the development lifecycle, project management applications like Jira or Trello exist that could help prioritize requirements. Prototyping applications like Figma or Balsamiq could also aid analysts in creating mockups that clarify user interface interpretations.
+
+## Why is Requirement Analysis Important?
+## Requirement Analysis Ensures Shared Understanding
+
+Requirement Analysis is designed to provide developers, testers, clients, and end users with a common understanding of what the software needs to do. The lack of clear requirements introduces a higher risk of misunderstandings and questions of scope when features are added without a clear plan. This can lead to delays, cost overruns, and unsatisfied users. By being specific and documenting the requirements early, teams can ensure everyone is on the same page and avoid making changes to previously agreed-upon requirements that result in additional work after development has already begun.
+
+## Identifying Issues Early Reduces Risk and Cost
+
+Finding and fixing issues is dramatically less expensive during the requirement analysis phase compared to making fixes after development has begun or the product has been deployed. Requirement Analysis gives teams an opportunity to identify potential flaws, discrepancies, or missing elements before any code is produced. Taking this approach allows for minimal changes later in development and significantly reduces the chances of costly rework, project failure, or missed deadlines. Overall, this enables a more manageable and predictable delivery throughout the software development lifecycle.
+
+## Clear Requirements Guide Development and Testing
+
+Requirements that are clear and well-structured become the foundation for the development team. Development teams can use these requirements to build system architecture and write source code, while testing teams can use the documentation to develop test scenarios that validate whether the software operates as intended. When requirements are not solid, there is the potential for both testing and development teams to deviate in their implementation, leading to software that is incomplete and of low quality. Requirement Analysis provides clarity, ensuring that every component of the system has a defined purpose and measurable success criteria.
