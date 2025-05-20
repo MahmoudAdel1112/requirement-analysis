@@ -70,3 +70,34 @@ Requirement Analysis involves a structured approach to understanding and definin
 
 - **Requirement Validation**  
   The final activity involves reviewing and verifying the requirements with stakeholders to ensure accuracy and alignment with business goals. This may include walkthroughs, inspections, or prototyping to confirm that the system will meet user expectations before development begins.
+
+## Types of Requirements.
+### Functional Requirements
+
+Functional requirements define what the system must do — the specific actions or functions it needs to perform to meet user needs. These typically describe features and behaviors of the system.
+
+### Examples for the Booking Management System:
+- The user can create, view, edit, and cancel bookings.  
+- The system performs an availability check before confirming the booking.  
+- The system sends a confirmation email to the user after a booking is made.
+  
+### Non-Functional Requirements
+
+Non-functional requirements describe how well the system should perform under certain conditions. They focus on quality attributes such as performance, usability, reliability, and security.
+
+### Examples for the Booking Management System:
+- The system shall load booking pages in less than 2 seconds.  
+- User data will be encrypted to ensure quality and privacy.  
+- The system will support a minimum of 1,000 concurrent users without performance degradation.
+
+
+## Use Case Diagrams.
+
+Use Case Diagrams are visual representations that show the interactions between users (called actors) and a system. They illustrate the different functionalities a system provides from the user’s perspective. 
+Benefits of Use Case Diagrams 
+
+   - Help clarify system functionality and user interactions  
+   -  Support better communication between developers and stakeholders  
+   - Aid in identifying missing or unclear requirements early  
+- Provide a high-level view of system behavior for planning and design
+     
