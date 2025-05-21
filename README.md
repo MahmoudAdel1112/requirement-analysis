@@ -101,3 +101,40 @@ Benefits of Use Case Diagrams
    - Aid in identifying missing or unclear requirements early  
 - Provide a high-level view of system behavior for planning and design
      
+![alx-booking-uc.png](https://github.com/user-attachments/assets/676060d8-2df8-4ae0-8f71-df00f614b4fa)
+
+
+
+## Acceptance Criteria
+
+### Importance of Acceptance Criteria in Requirement Analysis
+
+Acceptance criteria are essential in requirement analysis, defining clear, measurable conditions a feature must meet to be deemed complete. They ensure alignment between stakeholders and developers by:
+
+- Providing clarity and reducing ambiguity.
+- Enabling testable requirements for quality assurance.
+- Defining feature scope to prevent scope creep.
+- Aligning development with business goals.
+
+Well-defined acceptance criteria streamline development and ensure the delivered product meets user expectations.
+
+### Example: Acceptance Criteria for the Checkout Feature
+
+**Feature**: Checkout for Booking Management System  
+**Description**: Allows users to review bookings, apply discounts, select payment methods, and complete the booking process.
+
+**Acceptance Criteria**:
+1. **Booking Summary**:
+   - Display selected services (e.g., room, dates), total cost, taxes, and fees on the Checkout page.
+2. **Discount Application**:
+   - Apply valid discount codes to reduce total cost with a confirmation message.
+   - Show an error for invalid codes without changing the total.
+3. **Payment Selection**:
+   - Display available payment methods (e.g., credit card, PayPal) with the correct payment form.
+4. **Booking Confirmation**:
+   - Show a confirmation with a unique booking ID and details upon successful payment.
+   - Send a confirmation email with booking ID and receipt.
+5. **Error Handling**:
+   - Display specific error messages for invalid payment details, preventing checkout until resolved.
+6. **Accessibility**:
+   - Ensure WCAG 2.1 Level AA compliance (e.g., screen reader support, keyboard navigation).
